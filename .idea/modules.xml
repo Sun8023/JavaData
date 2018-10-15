@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaData.iml" filepath="$PROJECT_DIR$/JavaData.iml" />
+      <module fileurl="file://E://JavaData/../../JavaData/JavaData.iml" filepath="E://JavaData/../../JavaData/JavaData.iml" />
     </modules>
   </component>
 </project>
